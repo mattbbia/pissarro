@@ -16,11 +16,10 @@ I chose Pissarro for the soft earth tones, muted greens, and warm creams that tr
 
 ## Wallpaper Gallery
 
-This theme includes six carefully selected paintings:
+This theme includes five carefully selected paintings:
 
 | Preview | Artwork |
 | --- | --- |
-| ![A Creek in St. Thomas](backgrounds/A%20Creek%20In%20St.%20Thomas%201856.jpg) | A Creek in St. Thomas (1856) |
 | ![Landscape, Île-de-France](backgrounds/Landscape%20Ile%20De%20France%201873.jpg) | Landscape, Île-de-France (1873) |
 | ![Charing Cross Bridge, London](backgrounds/Charing%20Cross%20Bridge%20London%201890.jpg) | Charing Cross Bridge, London (1890) |
 | ![Hampton Court Green](backgrounds/Hampton%20Court%20Green%201891.jpg) | Hampton Court Green (1891) |
