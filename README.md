@@ -2,7 +2,9 @@
 
 A light Omarchy theme inspired by the landscapes and city scenes of Camille Pissarro.
 
-![GitHub stars](https://img.shields.io/github/stars/mattbbia/pissarro-omarchy?style=flat-square) ![License](https://img.shields.io/github/license/mattbbia/pissarro-omarchy?style=flat-square) ![Hits](https://hits.sh/github.com/mattbbia/pissarro.svg?style=flat-square&label=hits&color=44cc11) <img src="omarchy-icon.png" width="20" height="20" alt="Omarchy" title="Omarchy Quattro Ready"> ![Omarchy Quattro Ready](https://img.shields.io/badge/Omarchy-Quattro%20Ready-brightgreen?style=flat-square) ![Mode](https://img.shields.io/badge/mode-light-fbbf24?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/mattbbia/pissarro-omarchy?style=flat-square) ![License](https://img.shields.io/github/license/mattbbia/pissarro-omarchy?style=flat-square) ![Hits](https://hits.sh/github.com/mattbbia/pissarro.svg?style=flat-square&label=hits&color=44cc11) ![Mode](https://img.shields.io/badge/mode-light-fbbf24?style=flat-square) [![More Themes](https://img.shields.io/badge/more%20themes-%40mattbbia-blue?style=flat-square)](https://github.com/mattbbia?tab=repositories) ![Artist](https://img.shields.io/badge/artist-Camille%20Pissarro-8b5e3c?style=flat-square) ![Era](https://img.shields.io/badge/era-19th%20Century-a67c52?style=flat-square)
+
+<img src="omarchy-icon.png" width="20" height="20" alt="Omarchy" title="Omarchy Quattro Ready"> ![Omarchy Quattro Ready](https://img.shields.io/badge/Omarchy-Quattro%20Ready-brightgreen?style=flat-square)
 
 ![Omarchy Camille Pissarro Theme](preview.png)
 
