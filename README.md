@@ -2,7 +2,7 @@
 
 A light Omarchy theme inspired by the landscapes and city scenes of Camille Pissarro.
 
-![GitHub stars](https://img.shields.io/github/stars/mattbbia/pissarro-omarchy?style=flat-square) ![License](https://img.shields.io/github/license/mattbbia/pissarro-omarchy?style=flat-square) ![Downloads](https://hits.sh/github.com/mattbbia/pissarro.svg?style=flat-square&label=downloads&color=44cc11) <img src="omarchy-icon.png" width="20" height="20" alt="Omarchy" title="Omarchy Quattro Ready"> <img src="quattro-icon.svg" height="20" alt="Quattro" title="Omarchy Quattro Ready"> ![Omarchy Quattro Ready](https://img.shields.io/badge/Omarchy-Quattro%20Ready-brightgreen?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/mattbbia/pissarro-omarchy?style=flat-square) ![License](https://img.shields.io/github/license/mattbbia/pissarro-omarchy?style=flat-square) ![Hits](https://hits.sh/github.com/mattbbia/pissarro.svg?style=flat-square&label=hits&color=44cc11) <img src="omarchy-icon.png" width="20" height="20" alt="Omarchy" title="Omarchy Quattro Ready"> ![Omarchy Quattro Ready](https://img.shields.io/badge/Omarchy-Quattro%20Ready-brightgreen?style=flat-square)
 
 ![Omarchy Camille Pissarro Theme](preview.png)
 
