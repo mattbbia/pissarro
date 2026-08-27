@@ -25,7 +25,7 @@ This theme includes six carefully selected paintings:
 | ![Charing Cross Bridge, London](backgrounds/Charing%20Cross%20Bridge%20London%201890.jpg) | Charing Cross Bridge, London (1890) |
 | ![Hampton Court Green](backgrounds/Hampton%20Court%20Green%201891.jpg) | Hampton Court Green (1891) |
 | ![Place du Carrousel, Paris](backgrounds/Place%20Du%20Carrousel%20Paris%201900.jpg) | Place du Carrousel, Paris (1900) |
-| ![The Louvre, Afternoon, Rainy Weather](backgrounds/The%20Louvre%20Afternoon%20Rainy%20Weather%201900.jpg) | The Louvre, Afternoon, Rainy Weather (1900) |# Wallpaper Gallery
+| ![The Louvre, Afternoon, Rainy Weather](backgrounds/The%20Louvre%20Afternoon%20Rainy%20Weather%201900.jpg) | The Louvre, Afternoon, Rainy Weather (1900) |
 
 ## Color Palette
 ### Backgrounds
